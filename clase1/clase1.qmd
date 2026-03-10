@@ -1,0 +1,629 @@
+---
+pagetitle: "Clase 1"
+Author: Daniel Miranda
+lang: es
+
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: "#>"
+    R.options:
+      knitr.graphics.auto_pdf: true
+      
+format:
+  revealjs:
+    code-overflow: scroll   # para scroll horizontal si el chunk es largo
+    code-fold: false        # o true si quieres que se colapsen
+    slide-number: true
+    theme: "input/libs/style.scss"
+    auto-stretch: false
+    title-slide-attributes:
+      visibility: false
+    transition: slide
+    transition-speed: slow
+# data-background-image: images/cover.jpg
+# data-background-size: cover
+    auto-play-media: true
+  pdf:
+    format: beamer 
+    keep-tex: true  # Debug LaTeX output if needed
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(knitr)
+knitr::opts_chunk$set(#echo = F,
+                      warning = F,
+                      error = F, 
+                      message = F,
+                      cache=T) 
+```
+
+::: columns
+::: {.column width="15%"}
+![](input/images/uchile_azul.jpg)
+:::
+
+::: {.column .column-right width="85%"}
+<br>
+
+## **Métodos de la Investigación Social**
+
+------------------------------------------------------------------------
+
+Daniel Miranda
+
+::: {.blue .medium}
+Contacto: danmiranda\@uchile.cl
+:::
+
+2026
+:::
+:::
+
+## Presentación general
+
+## Descripción
+
+Al finalizar el curso el/la estudiante:
+
+-   Comprende los fundamentos, potencialidades y limitaciones de la investigación científica en ciencias sociales en general y en psicología en particular.
+
+-   Identifica y plantea preguntas de investigación, define objetivos, formula hipótesis y construye un punto de vista teórico para el abordaje de dichas preguntas.
+
+-   Identifica diseños de investigación, técnicas de selección de participantes y técnicas de producción de información, adecuados para abordar una pregunta de investigación concreta.
+
+-   Comprende los aspectos éticos inherentes a la investigación social con y sobre seres humanos.
+
+## ¿En qué es única la investigación en ciencias sociales - psicología?
+
+
+![](./files/science.jpg){fig-align="center" width="50%"}
+
+## ¿En qué es única la investigación en ciencias sociales - psicología?
+
+
+![](./files/fake.jpg){fig-align="center" width="70%"}
+
+## Propósito
+
+Curso teórico-práctico del ciclo básico que tiene como propósito que los estudiantes conozcan los fundamentos de la metodología de la investigación científica en ciencias sociales y distingan los principales diseños utilizados.
+
+## Contenidos
+
+Unidad 1: Fundamentos de la Investigación Científica en Ciencias Sociales
+
+-   La ciencia y el método científico.
+
+-   La investigación científica en Ciencias Sociales y en Psicología.
+
+-   El proceso de investigación en Ciencias Sociales
+
+## Contenidos
+
+Unidad 2: Problemas de investigación y su abordaje
+
+-   Problemas de Investigación: Ideas, preguntas y objetivos de investigación.
+
+-   Justificación de una investigación: revisión bibliográfica, construcción del marco teórico y formulación de hipótesis.
+
+-   Diferencias al interior de la investigación social: enfoques cuantitativo, cualitativo y mixto.
+
+-   Unidades de análisis y procedimientos de muestreo.
+
+-   Técnicas de recolección de información.
+
+## Contenidos
+
+Unidad 3: Diseños de investigación
+
+-   Preguntas y tipos de diseños de investigación
+
+-   Diseños experimentales y no-experimentales
+
+-   Diseños cualitativos
+
+-   Diseños que abordan el tiempo
+
+## Contenidos
+
+Unidad 4: Crisis técnica y ética de la investigación
+
+-   Crisis de replicación en Psicología
+
+-   Ética aplicada a la investigación científica en Psicología
+
+## Metodología
+
+-   Sesiones de clases lectivas presenciales semanales, donde se presentarán los aspectos centrales de los contenidos correspondientes a la semana.
+
+-   Las clases lectivas en general se acompañan de documentos de presentación, que estarán disponibles antes de la sesión en la página del curso.
+
+-   Excepcionalmente podrá definirse algunas clases formato remoto o asincrónico.
+
+-   Lectura de bibliografía por parte de los estudiantes. Los textos que abordan los contenidos del curso estarán disponibles antes de las sesiones correspondientes para ser leídos por parte de los estudiantes antes de cada sesión.
+
+## Metodología
+
+-	Trabajo en plataforma virtual: los temas del curso se acompañan de controles de lectura sobre los contenidos. 
+
+-	Desarrollar una propuesta de investigación: Durante la asignatura los/as estudiantes deberán desarrollar una propuesta de investigación orientada a la aplicación de los contenidos revisados en clase.
+
+
+## Evaluaciones
+
+El curso se evaluará por medio de las siguientes actividades:
+
+-   **Trabajo en plataforma virtual**: Se realizarán breves controles de los contenidos revisados. Al finalizar el semestre, cada estudiante podrá eliminar 2 de estas notas. El promedio de los controles tiene una ponderación de 10% en la nota de presentación a examen.
+
+-   **Pruebas escritas**: Se realizarán dos pruebas individuales de aplicación de los contenidos de las unidades del curso. Estas evaluaciones tienen una ponderación de 30% cada una en la nota de presentación a examen.
+
+-   **Desarrollar una propuesta de investigación**: Durante la asignatura los/as estudiantes deberán desarrollar una propuesta de investigación. Este será realizado en grupo de estudiantes. Se realizarán dos entregas de esta propuesta. La primera entrega tiene una ponderación de 15% y la segunda un 15%, en la nota de presentación a examen.
+
+## Evaluaciones
+
+El curso se evaluará por medio de las siguientes actividades:
+
+-   **Examen**: Quienes tengan una nota **inferior a 4,0 en el promedio de las pruebas** o una nota de presentación a examen inferior a 5,5 deberán rendir un examen escrito individual de aplicación de todos los contenidos del curso. Esta evaluación tiene una ponderación de 40% en el promedio final de la asignatura.
+
+-   **Examen de recuperación**: Quienes al final del semestre no alcancen la nota mínima de 4,0 tienen derecho a presentarse a examen de segunda oportunidad, cuya ponderación en el promedio final es un 40%.
+
+## Fechas
+
+| Fecha   | Tipo de evaluación                            |
+|:--------|:----------------------------------------------|
+| 14.04   | Prueba 1 (30%)                                |
+| 28.04   | Entrega 1 -- Propuesta de investigación (10%) |
+| 02.06   | Entrega 2 -- Propuesta de investigación (10%) |
+| 16.06   | Prueba 2 (35%)                                |
+| Semanal | Controles en línea (15%)                      |
+|         |                                               |
+| 01.07   | Examen 1° (40%)                               |
+| 08.07   | Examen 2° instancia 40%                       |
+
+## Calendario
+
+![](images/paste-0AC559F8.png){fig-align="center" width="50%"}
+
+# Algunas reglas generales
+
+## Funcionamiento en contexto de clases
+
+-   La inasistencia a clases obligatorias y/o evaluaciones deben ser justificadas en un plazo de 5 días hábiles en Secretaría de Estudios al correo, adjuntando los antecedentes. Esto se realiza vía plataforma U-Campus o por correo a secest.psicologia\@uchile.cl
+
+-   Lectura anticipada
+
+-   Controles de lectura se realizarán los primeros 15 minutos de la clase
+
+-   75% de asistencia
+
+# ¿Qué es la Ciencia?
+
+## El problema del presentador (Monty Hall)
+
+```{r echo=FALSE,  out.width= '70%', fig.align='center'}
+knitr::include_graphics('./files/puerta.png')
+```
+
+## Métodos de adquisión de conocimiento
+
+-   Tenacidad: sabiendo por la fuerza del hábito
+
+-   Autoridad: sabiendo gracias a otros
+
+-   Razón: sabiendo gracias a la lógica y la racionalidad
+
+-   Empirismo: sabiendo a través de la experiencia
+
+    -   **Ciencia: confiar en el empirismo sistematico**
+
+# Tenacidad
+
+## El lado b de la tenacidad
+
+-   Implica creer en algo simplemente porque es lo que hemos creído durante mucho tiempo. No hay exploración de las creencias de uno, ni contemplación racional de puntos de vista opuestos.
+
+-   Peirce (1877) sostuvo que la tenacidad implica el cierre de uno mismo a la información que es incoherente, o que amenaza una creencia firmemente sostenida.
+
+-   Negarse a considerar la evidencia contraria reduce la probabilidad de formar creencias exactas las creencias tenazmente sostenidas pueden ser correctas. Podemos distinguir entre el método sobre el cual se basa el conocimiento y la precisión de ese conocimiento
+
+# Autoridad
+
+## Implica depender de otras personas como nuestra fuente de conocimiento y creencias
+
+-   Creemos que la persona tiene experiencia en el tema.
+
+-   Percibimos a la persona como digna de confianza.
+
+-   Depender de la autoridad puede ser muy eficiente.
+
+-   Sin embargo, la autoridad también tiene limitaciones y escollos:
+
+    -   Los/as expertos pueden mostrar opiniones diferentes
+    -   Atribuimos experiencia a fuentes que no la tienen o descartamos fuentes expertas
+    
+# Razón
+
+## Lógica y racionalidad
+
+-   El uso de la lógica y el argumento racional son parte integral de la ciencia, en forma de razonamiento
+
+-   Los científicos usan el razonamiento cuando construyen teorías para dar cuenta de hechos conocidos y cuando derivan hipótesis de teorías para probar esas teorías.
+
+-   Pero el conocimiento científico no se basa en el método de la razón. La limitación primaria del método de la razón es que diversas conclusiones lógicas emergen dependiendo de las premisas con las que uno comienza.
+
+```{r echo=FALSE,  out.width= '50%', fig.align='center'}
+knitr::include_graphics('./files/supuesto.png')
+```
+
+## Solución lógica
+
+```{r echo=FALSE,  out.width= '50%', fig.align='center'}
+knitr::include_graphics('./files/puertas.png')
+```
+
+## Empirismo
+
+## Conocimiento basado en la experiencia
+
+-   Conocimiento empírico
+
+-   **Una gran parte de lo que sabemos viene directamente de nuestros sentidos: por lo que vemos, oímos, tocamos, etc**.
+
+## Empirismo
+
+Proceso de adquirir conocimiento directamente a través de la observación y la experiencia.
+
+*\[Filosóficamente: todo conocimiento se deriva de la experiencia\]*.
+
+-   ¿pero es todo adquirible a través de la experiencia y la observación?
+
+-   ¿puedo conocer empíricamente la sensación térmica de -50°c?
+
+## Empirísmo
+
+-   Las fronteras del conocimiento empírico
+
+-   Conocimiento empírico "vicario" (comunidad científica)
+
+-   Reconocimiento de la "subjetividad" en las propias experiencias y experiencias sensoriales
+
+-   El recuerdo e interpretación de la propia experiencia puede estar sesgado (ej. Sesgo de simpatía)
+
+## ¿cómo se podría aplicar el enfoque empírico para resolver el dilema de las tres puertas?
+
+```{r echo=FALSE, message=FALSE, error=FALSE, warning=FALSE, out.width= '70%'}
+## Won the game or not
+sim.won <- function(prize.door, first.door, switching){
+  as.numeric(ifelse(first.door == prize.door, !switching, switching))
+}
+
+## Simulates randomly n door choices (1/3 probability for each door initially)
+sim.choose.door <- function(n){
+  door.prob <- runif(n)
+  ifelse(door.prob <= 1/3, 1, ifelse(door.prob <= 2/3, 2, 3))
+}
+
+## Simulates randomly n choices of switching (TRUE) or not (FALSE)
+sim.choose.switching <- function(n){
+  switching.prob <- runif(n)
+  ifelse(switching.prob <= 1/2, TRUE, FALSE)
+  
+}
+
+## Simulates n games and calculates the probability of winning by switching or not switching
+sim.game <- function(n=1000){
+  prize.door <- sim.choose.door(n) # Define prize door (n times)
+  first.door <- sim.choose.door(n) # Chose first door (n times)
+  switching <- sim.choose.switching(n) # Define if will switch first door (n times)
+  won <- sim.won(prize.door, first.door, switching) # Calculates the outcome of each run
+  
+  df <- data.frame(won = won, switching = switching) # Put runs in data frame
+  
+  # Calculate probabilities from the outcomes
+  prob.win.switching <- table(df$won, df$switching)[2,2]/sum(table(df$won, df$switching)[,2])
+  prob.win.not.switching <- table(df$won, df$switching)[1,2]/sum(table(df$won, df$switching)[,1])
+  
+  return(c(prob.win.switching, prob.win.not.switching))
+}
+
+# Plots distributions of probabilities using data frame with columns prob.win.switching and prob.win.not.switching
+plot.probs <- function(df, bins = 50){
+  require(ggplot2)
+  require(gridExtra)
+  
+  # Plot for Switching
+  bw <- (max(df$prob.win.switching) - min(df$prob.win.switching))/(bins - 1)
+  h1 <- ggplot(df, aes(prob.win.switching)) + geom_histogram(binwidth = bw) + 
+    ggtitle('Switching') + xlab('Probability of Winning') + ylab('Frequency') + 
+    geom_vline(xintercept = mean(df$prob.win.switching), colour='red') + 
+    scale_x_continuous(breaks = c(0.20,0.30,0.40,0.50,0.60,0.80, round(mean(df$prob.win.switching),3)), limits=c(0.20, 0.80))
+  
+  # Plot for NOT Switching
+  bw <- (max(df$prob.win.not.switching) - min(df$prob.win.not.switching))/(bins - 1)
+  h2 <- ggplot(df, aes(prob.win.not.switching)) + geom_histogram(binwidth = bw) + 
+    ggtitle('NOT Switching') + xlab('Probability of Winning') + ylab('Frequency') + 
+    geom_vline(xintercept = mean(df$prob.win.not.switching), colour='red') +
+    scale_x_continuous(breaks = c(0.20,0.40,0.50,0.60,0.70,0.80, round(mean(df$prob.win.not.switching),3)), limits=c(0.20, 0.80))
+  
+  grid.arrange(h1, h2, nrow = 2, top="Distributions of Probability of Winning")
+}
+
+# Executes, repeated times, n runs of Monty Hall problem, also showing plot and descriptive results
+dist.game <- function(reps=300, n=100){
+  # Minimum n is 100
+  if(n < 100){
+    n <- 100
+  }
+  # Minimum reps is 300
+  if(reps < 300){
+    reps <- 300
+  }
+  
+  dist <- data.frame(prob.win.switching = rep(0, times = reps),
+                     prob.win.not.switching = rep(0, times = reps))
+  
+  # Repeating, "reps" times, "n" runs of Monty Hall problem 
+  for(i in 1:reps){
+    dist[i, ] <- sim.game(n)
+  }
+  
+  # Plots distributions
+  plot.probs(dist)
+  
+  # Returns descriptive results
+}
+
+dist.game(1000, 1000)
+
+```
+
+## ¿Qué es esa cosa llamada ciencia?
+
+RAE: Conjunto de conocimientos obtenidos mediante la observación y el razonamiento, sistemáticamente estructurados y de los que se deducen principios y leyes generales con capacidad predictiva y comprobables experimentalmente.
+
+*La ciencia es un proceso de recolección y evaluación sistemática de evidencia empírica para responder preguntas y testear ideas*.
+
+## Empirismo sistemático
+
+1.  La ciencia se basa en la evidencia empírica
+
+2.  La evidencia empírica no se recoge ni se interpreta al azar (hay un "plan")
+
+3.  Es necesario el razonamiento para interpretar las evidencias: *razonamiento sirve para evaluar las evidencias y formular buenas preguntas*
+
+# Objetivos de la ciencia
+
+## Objetivos de la ciencia
+
+-   Describir
+-   Explicar
+-   Predecir
+-   Controlar
+
+## Describir
+
+-   "describir o descubrir las leyes de la naturaleza"
+
+-   Implica identificar las características de un fenómeno o una variable
+
+-   Implica desarrollar sistemas de codificación
+
+-   En psicología: implica identificar cómo la gente se comporta, siente y piensa en varios escenarios.
+
+## Explicar
+
+-   ¿por qué ocurre lo que ocurre?
+
+-   ¿por qué en ciertas regiones de chile la tasa de violencia escolar es mayor que en otras?
+
+-   ¿por qué .....?
+
+-   Explicar -- conjeturar
+
+## Hipótesis
+
+Es una proposición tentativa sobre las causas o el resultado de una variable o sobre cómo éstas están relacionadas generalmente se anclan en teorías existentes y evidencias empíricas anteriores
+
+-   También emergen de: Corazonada + razonamiento
+
+-   Mucha evidencia empírica acumulada
+
+## Teoría
+
+Es un conjunto de instrucciones formales que especifica cómo y por qué se relacionan las variables o los eventos. Las teorías son más amplias que las hipótesis.
+
+-   Distinto alcance
+
+-   Ejemplos de teorías en psicología (...)
+
+    -   ¿Por qué existe la violencia escolar?
+
+## ¿Explicación fácil?
+
+-   Explicaciones biogenéticas
+
+-   Explicaciones de personalidad
+
+-   Explicaciones ambientales y de socialización
+
+-   Explicaciones (...)
+
+## Explicar
+
+-   causas distales y próximales
+
+## Predecir
+
+-   ¿es posible anticipar lo que ocurrirá si ....?
+
+-   ¿vaticinar el futuro?
+
+-   En primer lugar, la predicción es el medio más fuerte por el cual los científicos determinan si sus explicaciones para los acontecimientos son correctas. Si realmente entendemos por qué se produce un evento, qué lo causa, entonces deberíamos ser capaces de predecir las circunstancias en las que ocurrirá ese evento.
+
+## Predecir
+
+Si ... entonces .... Hagan proposiciones predictivas (desde la psicología) para los siguientes fenómenos:
+
+-   Bienestar en la adultez mayor
+-   Prejuicios hacia inmigrantes
+-   Diferencias salariales de género
+-   Conductas a favor del medio ambiente
+-   Participación política
+
+## Predecir
+
+¿Para qué predecir?
+
+-   Para construir y validar teorías científicas
+
+-   Para mejorar, prevenir, promover, ciencia aplicada
+
+## Predecir
+
+-   Pero !!!
+
+-   Las hipótesis no necesariamente se basan en la teoría: especialmente en las primeras etapas de la investigación sobre un tema
+
+-   Predecir no implica necesariamente una relación causal (ej., generalmente el trueno sigue al relámpago, pero no lo "causa")
+
+## Controlar
+
+Ejercer influencia
+
+-   Seleccionar objeto de estudio y variables + cómo medirlas; a quienes involucra, etc.
+
+-   Para mejorar la calidad de vida de las personas: programas de intervención, tratamientos, etc.
+
+-   Entonces ...
+
+# ¿Qué es esa cosa llamada ciencia?: La pregunta del millón
+
+# Principios que guían el quehacer científico
+
+## Shavelson & Towne (2003): 6 principios guías
+
+-   Plantear preguntas importantes que puedan ser investigadas empíricamente.
+
+-   Vincular la investigación con la teoría relevante.
+
+-   Usar métodos que permitan la investigación directa de la pregunta.
+
+-   Proporcionar una cadena de razonamiento coherente y explícita.
+
+-   Replicar y generalizar todos los estudios.
+
+-   Desarrollar investigaciones para alentar la reflexión y la crítica profesional.
+
+## Principio 1: Plantear preguntas importantes que puedan ser investigadas empíricamente.
+
+-   Importancia de las preguntas
+
+```{r echo=FALSE, out.width= '40%', fig.align='center'}
+knitr::include_graphics('./files/preguntas.png')
+```
+
+## Robert Putnam
+
+"Las áreas con mayor participación cívica de Italia son precisamente las aldeas tradicionales del sur. El espíritu cívico de las comunidades tradicionales no debe ser idealizado. La vida en gran parte de la Italia tradicional de hoy está marcada por jerarquías y explotación, con fuertes inequidades (...). Por el contrario, las regiones"más cívicas" de Italia, aquellas en donde los ciudadanos se sienten con poder para participar en movimientos sociales y deliberaciones colectivas y dónde éstas manifestaciones se han traducido de manera más completa en políticas públicas efectivas, son el algunas de las ciudades más modernas de la península. La modernización no señala la desaparición de la comunidad cívica" (p. 115).
+
+## Robert Putnam
+
+```{r echo=FALSE,  out.width= '70%', fig.align='center'}
+knitr::include_graphics('./files/bowling.jpg')
+```
+
+## Otros ejemplos
+
+```{r echo=FALSE,  out.width= '50%', fig.align='center'}
+knitr::include_graphics('./files/libro.jpg')
+```
+
+## Otros ejemplos
+
+```{r echo=FALSE,  out.width= '30%', fig.align='center'}
+knitr::include_graphics('./files/tolerance_book.png')
+```
+
+## Principio 2: Vincular la investigación con la teoría relevante.
+
+-   "Las teorías científicas son, en esencia, modelos conceptuales que explican algunos fenómenos. Son especies de redes proyectadas para atrapar lo que llamamos 'el mundo' ... Nuestro esfuerzo es esforzarnos por hacer que la malla de la red sea cada vez más fina" (Popper, 1959, p. 59).
+
+-   ¿Que pasa en Psicología?¿Cúal es la relación entre teoría e investigación?
+
+## Teoría
+
+-   Afecta a qué se observa
+
+-   Y a cómo se observa
+
+-   Influye en la pregunta de investigación
+
+-   En los métodos que se utilizan
+
+-   Y en la interpretación de los datos
+
+## Principio 3: Usar métodos que permitan la investigación directa de la pregunta.
+
+-   Deber ser seleccionado en función de la pregunta de investigación
+
+-   Debe "encajar" con la pregunta de investigación
+
+-   Se debe justificar por qué se elige dicho método
+
+-   Hay que tener en cuenta las limitaciones
+
+## Si una hipótesis es confirmada usando distintos métodos, su credibilidad aumenta.
+
+## Comprender las habilidades para lectura
+
+-   Cuestionarios
+
+-   Entrevistas
+
+-   Técnicas de Neuroimagen
+
+## Principio 4: Proporcionar una cadena de razonamiento coherente y explícita.
+
+```{r echo=FALSE, out.width= '60%'}
+knitr::include_graphics('./files/model1.png')
+```
+
+-- ¿Es posible pensarlo al revés?
+
+## Principio 5: Replicar y generalizar todos los estudios.
+
+-   Replicación
+
+-   Generalización
+
+-   Reproducibilidad
+
+## ¿Replicación?
+
+```{r echo=FALSE, out.width= '70%', fig.align='center'}
+knitr::include_graphics('./files/Lacour1.png')
+```
+
+## ¿Replicación?
+
+```{r echo=FALSE, out.width= '80%', fig.align='center'}
+knitr::include_graphics('./files/lacour2.png')
+```
+
+## ¿Replicación?
+
+```{r echo=FALSE, out.width= '55%', fig.align='center'}
+knitr::include_graphics('./files/lacour3.png')
+```
+
+## Principio 6: Desarrollar investigaciones para alentar la reflexión y la crítica profesional
+
+-   Comunidad científica
+
+-   Comunicación de resultados (revisión de pares)
+
+-   Difusión amplia
+
+
