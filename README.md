@@ -9,7 +9,7 @@ Clases
 
 ## Clases
 
--  [Clase 1](https://damiranda.github.io/ClasesMIS2026/clase1/clase1.html)
+-  [Clase 1](https://damiranda.github.io/clasesMIS2026/clase1/clase1.html)
 
 
 
