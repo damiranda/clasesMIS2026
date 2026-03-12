@@ -202,9 +202,8 @@ El curso se evaluará por medio de las siguientes actividades:
 
 ## El problema del presentador (Monty Hall)
 
-```{r echo=FALSE,  out.width= '70%', fig.align='center'}
-knitr::include_graphics('./files/puerta.png')
-```
+![](files/puerta.png){fig-align="center" width="80%"}
+
 
 ## Métodos de adquisión de conocimiento
 
