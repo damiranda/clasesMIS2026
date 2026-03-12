@@ -202,7 +202,7 @@ El curso se evaluará por medio de las siguientes actividades:
 
 ## El problema del presentador (Monty Hall)
 
-![](files/puerta.png){fig-align="center" width="80%"}
+![](./files/puerta.png){fig-align="center" width="80%"}
 
 
 ## Métodos de adquisión de conocimiento
