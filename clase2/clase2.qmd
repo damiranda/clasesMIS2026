@@ -1,5 +1,5 @@
 ---
-pagetitle: "Clase 1"
+pagetitle: "Clase 2"
 Author: Daniel Miranda
 lang: es
 
@@ -227,7 +227,7 @@ knitr::include_graphics('./files/bowling.jpg')
 
 ## Otros ejemplos
 
-```{r echo=FALSE,  out.width= '50%', fig.align='center'}
+```{r echo=FALSE,  out.width= '40%', fig.align='center'}
 knitr::include_graphics('./files/libro.jpg')
 ```
 
@@ -299,13 +299,13 @@ knitr::include_graphics('./files/Lacour1.png')
 
 ## ¿Replicación?
 
-```{r echo=FALSE, out.width= '80%', fig.align='center'}
+```{r echo=FALSE, out.width= '65%', fig.align='center'}
 knitr::include_graphics('./files/lacour2.png')
 ```
 
 ## ¿Replicación?
 
-```{r echo=FALSE, out.width= '55%', fig.align='center'}
+```{r echo=FALSE, out.width= '40%', fig.align='center'}
 knitr::include_graphics('./files/lacour3.png')
 ```
 
