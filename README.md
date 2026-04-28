@@ -21,6 +21,6 @@ Clases
 -  [significados](https://damiranda.github.io/clasesMIS2026/clase7/significados.pdf)
 -  [validar](https://damiranda.github.io/clasesMIS2026/clase7/validar.pdf)
 -  [observar](https://damiranda.github.io/clasesMIS2026/clase7/observar.pdf)
-
+-  [cuestionario](https://damiranda.github.io/clasesMIS2026/clase7/cuestionario.pdf)
 
 
