@@ -297,17 +297,20 @@ knitr::include_graphics('./files/model1.png')
 knitr::include_graphics('./files/Lacour1.png')
 ```
 
+
 ## ¿Replicación?
 
 ```{r echo=FALSE, out.width= '65%', fig.align='center'}
 knitr::include_graphics('./files/lacour2.png')
 ```
 
+
 ## ¿Replicación?
 
 ```{r echo=FALSE, out.width= '40%', fig.align='center'}
 knitr::include_graphics('./files/lacour3.png')
 ```
+
 
 ## Principio 6: Desarrollar investigaciones para alentar la reflexión y la crítica profesional
 

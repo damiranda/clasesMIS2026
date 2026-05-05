@@ -2,7 +2,6 @@
 title: "Ejercicio de muestreo usando Chubis"
 author: "Daniel Miranda"
 format: revealjs
-format: beamer
 editor: visual
 ---
 
