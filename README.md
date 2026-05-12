@@ -23,7 +23,7 @@ Clases
 -  [observar](https://damiranda.github.io/clasesMIS2026/clase7/observar.pdf)
 -  [cuestionario](https://damiranda.github.io/clasesMIS2026/clase7/cuestionario.pdf)
 -  [Clase 8](https://damiranda.github.io/clasesMIS2026/clase8/clase8.pdf)
+-  [Clase 9](https://damiranda.github.io/clasesMIS2026/clase9/clase9.pdf)
 
--  [COM](https://damiranda.github.io/clasesMIS2026/COM.pdf)
 
 
