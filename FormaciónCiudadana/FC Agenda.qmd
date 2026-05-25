@@ -1,0 +1,372 @@
+---
+title: "Participación Comunitaria y Ciudadanía (Juvenil)"
+author: "Daniel Miranda, Universidad de Chile"
+date: 03/04/2025
+format: beamer
+editor: visual
+---
+
+# Contenidos
+
+## Contenidos
+
+-   Introducción: Democracia, ciudadanía, escuela
+-   Modelo(s) de democracia
+-   Modelo(s) de ciudadanía
+-   Jóvenes y participación
+-   Rol de la escuela
+-   Estudios nacionales e Internacionales
+
+# Introducción: Democracia, ciudadanía, escuela
+
+## Democracia, ciudadanía, escuela
+
+-   ¿Pueden las teorías de las Ciencias Sociales iluminar las preguntas sobre las ciudadanía juvenil?
+
+-   *"..las monocracias, las autocracias, las dictaduras son fáciles, nos caen encima solas; las democracias son difíciles, tienen que ser promovidas y creídas" (Sartori, 1991, p.118)*.
+
+# Modelo(s) de democracia
+
+## Modelo(s) de democracia: liberal
+
+-   Mínima (voto)
+-   Sistema de partidos (número razonable)
+-   Ciudadanos autonomos con habilidades y conocimientos básicos
+-   Coformidad con reglas y procedimientos
+
+## Modelo(s) de democracia: Republicanismo cívico
+
+-   Ciudadanos activos
+-   Activismo político
+-   Altos niveles de conocimientos y habilidades
+-   Crítica en el nombre del bien común
+
+## Modelo(s) de democracia: Democracia crítica
+
+-   Creando justicia social
+-   Activismo social y político
+-   Crítica y mejora de la igualdad a travez de la acción política y social
+
+## Modelo(s) de democracia: Democracia cosmopolita
+
+-   Más allá de límites nacionales (global)
+-   Interés en los problemas del mundo
+-   Celebración de la diversidad
+
+# Modelo(s) de ciudadanía: ¿Crisis o nuevas ciudadanías?
+
+## Modelos posibles
+
+-   "participation in civil society, community and/or political life, characterized by mutual respect and non-violence and in accordance with human rights and democracy" (2006¸ pp. 4).
+
+-   Sociedad civil
+
+-   Comunidad
+
+-   Vida política
+
+-   Respeto mutuo
+
+-   no violencia
+
+-   derechos humanos
+
+-   democracia
+
+## Modelo(s) de ciudadanía
+
+![](ekmanamna.jpg)
+
+## Modelo(s) de ciudadanía
+
+![](Hmodel.jpg)
+
+## Modelo(s) de ciudadanía
+
+![](ICCS2016.jpg)
+
+## Modelo(s) de ciudadanía
+
+![](mapdeth.jpg)
+
+## Modelo(s) de ciudadanía
+
+![](theocharis.png)
+
+## Modelo(s) de ciudadanía
+
+![](tabla.png)
+
+# Jóvenes y participación
+
+## Jóvenes y participación
+
+-   Participación: Cambio (proliferación) de los repertorios de participación (Van deth, 2001)
+
+![](Vandeth.jpg)
+
+## Jóvenes y participación
+
+-   Paradoja de la participación, sobre todo en cohortes más jóvenes
+
+-   Disminución de la participación en voto como amenaza a la representatividad de los sistemas democráticos (Blais & Rubenson, 2013).
+
+## Jóvenes y participación
+
+![](VAP.jpg)
+
+## Jóvenes y participación
+
+-   Desigualad política: otra amenaza.
+
+-   Desigualdad Social y su relación con desigualdad política
+
+-   Aumento de las desigualdes sociales (Picketty, 2014; GINI project, 2012).
+
+-   Los efectos de los sesgo socieconómicos se observan desde edades tempranas, indicando desigualdad política desde el inicio (Verba, Burns & Schlozman, 2003; 2015)
+
+-   Estos sesgos socioeconómicos serían una amenaza importante a los ideales democráticos de igualdad en la participación y representación.
+
+## Jóvenes y participación
+
+-   Sin embargo, al considerar otras formas de participación los patrones sugieren que las cohortes jóvenes prefieren canales alternativos (o no institucionales) de participación (García-Albacete, 2014).
+
+![](lucro.jpg)
+
+## Jóvenes y participación
+
+![](participa.png)
+
+## Jóvenes y participación
+
+![](toma.jpeg)
+
+## Jóvenes y participación
+
+![](chile1.jpg)
+
+## Jóvenes y participación
+
+![](trend_protest1.png)
+
+## Jóvenes y participación
+
+![](ciclo_.jpg)
+
+## Jóvenes y participación
+
+![](civciv_foto.jpg)
+
+## Por lo tanto
+
+-   Por tanto, capturar las diversas formas de participción parece adecuado para abordar la participación juvenil.
+
+-   Considerando que en población juvenil la pregunta por la participación se convierte en una pregunta acerca del funcionamiento futuro de la democracia (Van Deth, 2011).
+
+-   Sin embargo, votar y las manifestaciones públicas no son suficientes para cubrir todos los aspectos necesarios.
+
+-   ¿Qué queda por cubrir?
+
+# Rol de la escuela
+
+## Rol de la escuela
+
+-   Socialización política: Entender el proceso por medio del cuál las personas de encuentran su lugar en el sistema político es (y han sido) un tema de preocupación (Tockeville; Niemi & Hepburn, 1995; Greenstein, 1965; Hyman, 1969; Langton, 1969; Abendschon, 2013; Ekman & Amna, 2014)
+
+-   Supuesto: Lo que se aprende en edades tempranas tiende a permanencer: persistencia de la socializaciión (Hooghe, 2004)
+
+-   Agentes de socialización: Familia, escuela, pares, medios, instituciones.
+
+-   La escuela...
+
+## Ideales
+
+Los sistemas escolares nacen atados a dos ideales normativos (Peña, 2014)
+
+-   Meritocracia: escuela como ecualizador de las condiciones de origen social
+
+-   Ciudadanía: separación de la incondicionalidad del hogar, permitiría la adquisicion de virtudes y valores necesarios para la vida democrática.
+
+-   ¿Puede la escuela fortalecer esos ideales?
+
+## Formación Ciudadana en Chile
+
+![](p1.jpg){fig-align="center" width="70%"}
+
+## Formación Ciudadana en Chile
+
+-   "La educación cívica debe constituir una de las principales materias del programa escolar. La democracia gana terreno en el mundo entero. La libertad y la igualdad se establecen así en las Monarquías como en las Repúblicas...
+
+-   ...Si los ciudadanos no saben distinguir las reglas más elementalesde justicia, de buena administración y de previsión que un país debe observar en interés de su conservación y prosperidad; si se imaginan mejorar su suerte por medio de la expoliación o la violencia, entonces el gobierno popular no haría otra cosa que cavar la tumba a la libertad.
+
+## Formación Ciudadana en Chile
+
+-   El sufragio es el pedestal del gobierno democrático; es menester esforzarse en interés de las instituciones es republicanas, por esparcir la capacidad política en la inteligencia de la instrucción cívica, sólida y general debe siempre preceder al sufragio universal" (p.1).
+
+## Formación Ciudadana en Chile
+
+-   El curriculum de Educación Ciudadana, Desde el 80 hasta ahora, ha sido redefinido 4 veces (Cox & García, 2014)
+
+-   1980-1981: Centrado en la familia y valores nacionalistas.
+
+-   Con un curso de educación Cívica en los dos últimos años, con foco en constitución y democracia portegida.
+
+-   1996 para Básica y 1998 en Media: Reorganiza la formación en diversas asignaturas.
+
+-   Historia y ciencias sociales, orientación, Filosofía y Psicología.
+
+## Formación Ciudadana en Chile
+
+-   Ajuste curricular 2009: Enfásis e contenidos como: Intitucionalidad política y compromiso ciudadano.
+
+    -   Se mantiene distribuido.
+
+    -   Ajuste curricular 2013: se explicita eje de formación ciudadana:
+
+    -   En Historia, geografía y ciencas sociales desde 1ro básico a 2do Medio.
+
+## Plan de Formación Ciudadana 2016
+
+![](plan.jpg)
+
+## Plan
+
+-   La ley Nº 20.911 dispone que todos los establecimientos educacionales reconocidos por el Estado deberán incluir en los niveles educativos que impartan --parvularia, básica y/o media--- un Plan de Formación Ciudadana, que integre y complemente las definiciones curriculares nacionales para brindar a las y los estudiantes la preparación necesaria en este ámbito.
+
+-   El Ministerio de Educación propone que este Plan se articule con el Proyecto Educativo Institucional (PEI) y con el Plan de Mejoramiento Educativo (PME).
+
+-   Se espera que el plan brinde a los estudiantes la preparación necesaria para asumir una vida responsable en una sociedad libre y de orientación hacia el mejoramiento integral de la persona humana, como fundamento del sistema democrático, la justicia social y el progreso. Asimismo, deberá propender a la formación de ciudadanos, con valores y conocimientos para fomentar el desarrollo del país, con una visión del mundo centrada en el ser humano, como parte de un entorno natural y social.
+
+## Objetivos del Plan
+
+-   Promover la comprensión y análisis del concepto de ciudadaníay los derechos y deberes asociados a ella, entendidos éstos en el marco de una República democrática, con el propósito de formar una ciudadanía activaen el ejercicio y cumplimiento de estos derechos y deberes.
+
+-   Fomentar en las y los estudiantes el ejercicio de una ciudadanía crítica, responsable, respetuosa, abierta y creativa.
+
+-   Promover el conocimiento, comprensión y análisis del Estado de Derecho y de la institucionalidad local, regional y nacional, y la formación de virtudes cívicas en el estudiantado.
+
+## Objetivos del Plan
+
+-   Promover el conocimiento, comprensión y compromiso de los y las estudiantes con los derechos humanos reconocidos en la Constitución Política de la República y en los tratados internacionales suscritos y ratificados por Chile, con especial énfasis en los derechos del niño.
+
+-   Fomentar en los y las estudiantes la valoración de la diversidad social y cultural del país.
+
+-   Fomentar la participación del estudiantado en temas de interés público.
+
+## Objetivos del Plan
+
+-   Garantizar el desarrollo de una cultura democrática y ética en la escuela.
+
+-   Fomentar una cultura de la transparencia y la probidad.
+
+-   Fomentar en los estudiantes la tolerancia y el pluralismo.
+
+¿Qué modelo de ciudadano y democracia contiene el plan?
+
+## Un estudio en desarrollo
+
+![](images/paste-DB268E47.png)
+
+## Un estudio en desarrollo
+
+![](images/paste-47AF13D9.png)
+
+## Un estudio en desarrollo
+
+![](images/paste-B2BCC1AB.png)
+
+## Un estudio en desarrollo
+
+-   Comprender los procesos de influencia de la familia y la escuela sobre el compromiso cívico de los estudiantes, independientes y combinados.
+
+-   Evaluar en qué medida los efectos familiares (medidos a través de la participación de los padres en la escuela, los antecedentes socioeconómicos y socioculturales) y los estilos de clima escolar (democrático, permisivo, autoritario e indiferente) promueven el compromiso cívico de los estudiantes.
+
+-   Evaluar en qué medida los efectos familiares y los estilos de clima escolar interactúan para promover compromiso cívico de los estudiantes.
+
+## Un estudio en desarrollo
+
+![](images/paste-F7D5406F.png)
+
+# Estudios nacionales e Internacionales
+
+## Estudios Nacionales e Internacionales
+
+-   IEA Civic Education Study, CIVED 1999. Australia, Belgium (French), Bulgaria, Canada, \\textbf{Chile, Colombia, Cyprus, Czech Republic, Denmark, England, Estonia, Finland, Germany, Greece, Hong Kong SAR, Hungary, Israel, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Russian Federation, Slovak Republic, Slovenia, Sweden, Switzerland, and United States.
+
+## Estudios Nacionales e Internacionales
+
+-   International Civic and Citizenship Education Study, ICCS 2009
+
+![](sample.jpg)
+
+## Estudios Nacionales e Internacionales
+
+-   International Civic and Citizenship Education Study, ICCS 2016: Belgium (Flemish), Bulgaria,\\textbf{Chile, Chinese Taipei, Colombia, Croatia, Denmark, Dominican Republic, Estonia, Finland, Germany (North Rhine-Westphalia), Hong Kong SAR, Italy, Korea, Latvia, Lithuania, Malta, Mexico, Netherlands, Norway, Peru, Russian Federation, Slovenia, and Sweden.
+
+-   CELS: The Citizenship Educational Longitudinal Study - 2001-2010 \\url{https://www.nfer.ac.uk/research/projects/cels/
+
+## Estudios Nacionales e Internacionales
+
+-   Estudio Panel Sueco. Desde 2009: 5000 adolescentes y adultos jóvenes entre 13-30 por un periodo de 6 años. \\url{https://www.oru.se/PSP/
+
+-   Belgian Political Panel Survey (BPPS), 2006-2011. 6000 adolescentes ( \\url{https://lirias.kuleuven.be/handle/123456789/314889)
+
+-   Estudio de Educación Cívica 2017. Agencia de la Calidad de Educación.
+
+-   Panel Chileno de Socialización Política, 2019-2021. 1500 jóvenes, familias y profesores.
+
+## Algunos resultados
+
+![](libro.jpg)
+
+## Algunos resultados
+
+![](tolerance_book.png)
+
+## Algunos resultados
+
+![](midevidencias.png)
+
+## Algunos resultados
+
+![](change.png)
+
+## Algunos resultados
+
+![](march.png)
+
+## Algunos resultados
+
+![](paint.png)
+
+## Algunos resultados
+
+![](block.png)
+
+## Algunos resultados
+
+![](occupy.png)
+
+## Algunos resultados
+
+![](edu2.png)
+
+## Algunos resultados
+
+![](edu1.png)
+
+## Algunos resultados
+
+![](gini_marcha.png)
+
+## Algunos resultados
+
+![](gini_rayar.png)
+
+## Algunos resultados
+
+![](gini_trafic.png)
+
+## Algunos resultados
+
+![](gini_ocupa.png)
