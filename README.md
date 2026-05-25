@@ -26,6 +26,7 @@ Clases
 -  [Clase 9](https://damiranda.github.io/clasesMIS2026/clase9/clase9.pdf)
 
 -  [COM](https://damiranda.github.io/clasesMIS2026/FormaciónCiudadana/PC_Ciudadanía_Escuela_Comunitaria.html)
+                                                   FormaciónCiudadana/PC_Ciudadanía_Escuela_Comunitaria.html
 
 
 
