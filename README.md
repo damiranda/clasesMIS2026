@@ -25,6 +25,7 @@ Clases
 -  [Clase 8](https://damiranda.github.io/clasesMIS2026/clase8/clase8.pdf)
 -  [Clase 9](https://damiranda.github.io/clasesMIS2026/clase9/clase9.pdf)
 -  [Clase 10](https://damiranda.github.io/clasesMIS2026/clase10/clase10.html)
+-  [Clase 11-12](https://damiranda.github.io/clasesMIS2026/clase 11-12.pdf)
 
 
                                                    
